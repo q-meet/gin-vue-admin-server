@@ -1,0 +1,34 @@
+[GIN-VUE-ADMIN]2021/08/06 - 00:23:12.913	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/06 - 00:23:12.920	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/06 - 00:23:12.920	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/06 - 00:23:12.921	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/06 - 00:23:12.971	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/06 - 00:23:12.980	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/08/06 - 00:23:12.989	[31merror[0m	listen tcp :8888: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[GIN-VUE-ADMIN]2021/08/06 - 00:27:17.986	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/06 - 00:27:18.006	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/06 - 00:27:18.007	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/06 - 00:27:18.008	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/06 - 00:27:18.070	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/06 - 00:27:18.078	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/08/06 - 00:27:18.102	[31merror[0m	listen tcp :8888: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:36.535	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:36.550	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:36.551	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:36.552	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:36.614	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:36.632	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:36.641	[31merror[0m	listen tcp :8888: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:47.145	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:47.148	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:47.148	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:47.148	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:47.150	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:47.158	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/08/06 - 00:29:47.160	[31merror[0m	listen tcp :8888: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[GIN-VUE-ADMIN]2021/08/06 - 00:31:19.350	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/06 - 00:31:19.352	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/06 - 00:31:19.353	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/06 - 00:31:19.353	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/06 - 00:31:19.353	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/06 - 00:31:19.355	[34minfo[0m	server run success on 	{"address": ":8888"}

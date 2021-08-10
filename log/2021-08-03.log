@@ -1,0 +1,5 @@
+[GIN-VUE-ADMIN]2021/08/03 - 23:41:48.468	[34minfo[0m	D:/study/go/src/gin-admin-doc/gin-vue-admin/server/initialize/router.go:21	use middleware logger
+[GIN-VUE-ADMIN]2021/08/03 - 23:41:48.474	[34minfo[0m	D:/study/go/src/gin-admin-doc/gin-vue-admin/server/initialize/router.go:24	use middleware cors
+[GIN-VUE-ADMIN]2021/08/03 - 23:41:48.477	[34minfo[0m	D:/study/go/src/gin-admin-doc/gin-vue-admin/server/initialize/router.go:26	register swagger handler
+[GIN-VUE-ADMIN]2021/08/03 - 23:41:48.560	[34minfo[0m	D:/study/go/src/gin-admin-doc/gin-vue-admin/server/initialize/router.go:62	router register success
+[GIN-VUE-ADMIN]2021/08/03 - 23:41:48.563	[34minfo[0m	D:/study/go/src/gin-admin-doc/gin-vue-admin/server/core/server.go:28	server run success on 	{"address": ":8888"}

@@ -1,0 +1,25 @@
+[GIN-VUE-ADMIN]2021/08/05 - 00:10:03.145	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/05 - 00:10:03.151	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/05 - 00:10:03.151	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/05 - 00:10:03.152	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/05 - 00:10:03.194	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/05 - 00:10:03.211	[34minfo[0m	server run success on 	{"address": ":8883"}
+[GIN-VUE-ADMIN]2021/08/05 - 00:10:03.219	[31merror[0m	listen tcp :8883: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[GIN-VUE-ADMIN]2021/08/05 - 00:22:50.818	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/05 - 00:22:50.826	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/05 - 00:22:50.826	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/05 - 00:22:50.828	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/05 - 00:22:50.882	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/05 - 00:22:50.899	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/08/05 - 00:38:31.199	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/05 - 00:38:31.202	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/05 - 00:38:31.202	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/05 - 00:38:31.202	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/05 - 00:38:31.203	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/05 - 00:38:31.204	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/08/05 - 00:58:12.394	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/08/05 - 00:58:12.398	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/08/05 - 00:58:12.398	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/08/05 - 00:58:12.400	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/08/05 - 00:58:12.403	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/08/05 - 00:58:12.404	[34minfo[0m	server run success on 	{"address": ":8888"}
