@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 ## gin-vue-admin
-
-gin-vue-admin
-
-=======
 
 <div align=center>
 <img src="http://qmplusimg.henrongyi.top/gvalogo.jpg" width=300" height="300" />
